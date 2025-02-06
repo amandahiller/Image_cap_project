@@ -1,4 +1,4 @@
-Coursera project using BLIP from Hugging Face to create an AI application that add an AI generated caption to images. 
+Coursera project using BLIP from Hugging Face to create an AI application that adds an AI generated caption to images. 
 
 Added code to use Gradio as an interface for the AI application. 
 
